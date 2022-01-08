@@ -99,16 +99,17 @@ else:
 
 ```
 ## Output:
-[!github logo](search.png)
 
-[!github logo](search4.png)
+[!githublogo](i1.png)
 
-[!github logo](search3.png)
+[!githublogo](i2.png)
 
-
-
+[!githublogo](i3.png)
 
 
 
-## Result
+
+
+
+## Result:
 Thus the linear search and binary search algorithm is implemented using python programming.
