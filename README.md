@@ -98,13 +98,13 @@ else:
 
 
 ```
-## Output:
+### Output:
 
-[!githublogo](i1.png)
+![githublogo](i1.png)
 
-[!githublogo](i2.png)
+![githublogo](i2.png)
 
-[!githublogo](i3.png)
+![githublogo](i3.png)
 
 
 
